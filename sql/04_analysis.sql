@@ -167,7 +167,7 @@ ORDER BY b.month;
 
 -- RESULT: Jan and Feb caused ~2/3 of BOS cancellations and ~85% of weather
 -- cancellations. Feb: 13.66% BOS vs 4.78% national (~3x).
--- From April onward, BOS cancellation rate was at or below national every month.
+-- From April onward, BOS cancellation rate was at or below national every month except September, when they were essentially equal (0.47% vs 0.45%).
 -- CONCLUSION: BOS's high yearly cancellation rate (Q1) is driven by the
 -- record 2015 winter, not a year-round problem. One year only; can't
 -- generalize to every winter.
