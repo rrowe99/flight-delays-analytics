@@ -7,7 +7,7 @@ and **Power BI** for the dashboard.
 **The question:** How reliable is Boston Logan, what causes its delays, and when and
 where are they worst?
 
-![Boston vs large airports](images/page1_airport_comparison.png)
+![Boston vs large airports](images/page1_airport_comparison.PNG)
 
 ---
 
@@ -20,7 +20,7 @@ where are they worst?
 2. **Boston's cancellation problem was a winter problem.**
    In February 2015, BOS cancelled 13.66% of flights vs 4.78% nationally. January and
    February accounted for about two-thirds of BOS cancellations and 85% of its weather
-   cancellations. From April on, BOS cancelled at or below the national rate.
+   cancellations. From April on, BOS cancelled at or below the national rate (September was within 0.02 points).
    This lines up with Boston's record-breaking 2015 winter
    ([CBS Boston](https://www.cbsnews.com/boston/news/the-most-extreme-winter-month-ever-observed-in-new-england)).
 
@@ -53,10 +53,10 @@ where are they worst?
 | 4. Time of Day | When during the day do delays build up, and why? |
 | 5. Routes | Which BOS routes are least reliable? |
 
-![Delay causes and airlines](images/page2_delay_causes_airlines.png)
-![Seasonality](images/page3_seasonality.png)
-![Time of day](images/page4_time_of_day.png)
-![Routes](images/page5_routes.png)
+![Delay causes and airlines](images/page2_delay_causes_airlines.PNG)
+![Seasonality](images/page3_seasonality.PNG)
+![Time of day](images/page4_time_of_day.PNG)
+![Routes](images/page5_routes.PNG)
 
 ---
 
